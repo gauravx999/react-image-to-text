@@ -8,15 +8,7 @@
   <img src="https://img.icons8.com/color/48/react-native.png" title="React" height="40" />
   <img src="https://img.icons8.com/ios-filled/50/github.png" title="GitHub" height="40" />
 
-  <!-- White Tesseract logo (using filter invert to make it white on dark bg) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Tesseract_OCR_Logo.svg" 
-       style="filter: invert(1);"
-       title="Tesseract.js" height="40" />
 
-  <img src="https://img.icons8.com/color/48/bootstrap.png" title="MDBootstrap" height="40" />
-
-  <!-- Blue Netlify logo -->
-  <img src="https://img.icons8.com/color/48/0000FF/netlify.png" title="Netlify" height="40" />
 </p>
 
 
