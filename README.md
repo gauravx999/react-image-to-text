@@ -4,26 +4,20 @@
   <b>A React app that extracts text from images using Tesseract.js.</b><br />
   Upload an image → Convert text → Copy it to clipboard.
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/github/license/gauravx999/image-to-text-app?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/top/gauravx999/image-to-text-app?style=flat-square" />
-  <img src="https://api.netlify.com/api/v1/badges/b0b53532-2398-41ae-8c84-e6f1a91ac734/deploy-status?style=flat-square" />
-</p>
+  <img src="https://img.icons8.com/color/48/react-native.png" title="React" height="40" />
+  <img src="https://img.icons8.com/ios-filled/50/github.png" title="GitHub" height="40" />
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/react-native.png" title="React" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/github.png" title="GitHub" height="40"/>
-  
-  <!-- White Tesseract logo by inverting colors -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tesseract_OCR_Logo.svg/1200px-Tesseract_OCR_Logo.svg.png" style="filter: invert(1);" title="Tesseract.js" height="40"/>
-  
-  <img src="https://img.icons8.com/color/48/bootstrap.png" title="MDBootstrap" height="40"/>
-  
+  <!-- White Tesseract logo (using filter invert to make it white on dark bg) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Tesseract_OCR_Logo.svg" 
+       style="filter: invert(1);"
+       title="Tesseract.js" height="40" />
+
+  <img src="https://img.icons8.com/color/48/bootstrap.png" title="MDBootstrap" height="40" />
+
   <!-- Blue Netlify logo -->
-  <img src="https://img.icons8.com/color/48/0000FF/netlify.png" title="Netlify" height="40"/>
+  <img src="https://img.icons8.com/color/48/0000FF/netlify.png" title="Netlify" height="40" />
 </p>
-
 
 
 ---
