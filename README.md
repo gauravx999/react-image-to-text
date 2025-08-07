@@ -14,8 +14,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/react-native.png" title="React" />
   <img src="https://img.icons8.com/ios-filled/48/github.png" title="GitHub" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tesseract_OCR_Logo.svg/512px-Tesseract_OCR_Logo.svg.png" title="Tesseract.js" height="40"/>
-  <img src="https://img.icons8.com/color/48/bootstrap.png" title="MDBootstrap" />
+https://w7.pngwing.com/pngs/29/724/png-transparent-akishima-registrar-of-companies-judicial-scrivener-%E7%99%BB%E8%A8%98-juridical-person-tesseract-blue-text-logo.png  <img src="https://img.icons8.com/color/48/bootstrap.png" title="MDBootstrap" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" title="Netlify" height="40"/>
 </p>
 
