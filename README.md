@@ -14,9 +14,16 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/react-native.png" title="React" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/github.png" title="GitHub" height="40"/>
+  
+  <!-- White Tesseract logo by inverting colors -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tesseract_OCR_Logo.svg/1200px-Tesseract_OCR_Logo.svg.png" style="filter: invert(1);" title="Tesseract.js" height="40"/>
+  
   <img src="https://img.icons8.com/color/48/bootstrap.png" title="MDBootstrap" height="40"/>
-  <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" title="Netlify" height="40"/>
+  
+  <!-- Blue Netlify logo -->
+  <img src="https://img.icons8.com/color/48/0000FF/netlify.png" title="Netlify" height="40"/>
 </p>
+
 
 
 ---
