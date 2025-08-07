@@ -12,11 +12,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/react-native.png" title="React" />
-  <img src="https://img.icons8.com/ios-filled/48/github.png" title="GitHub" />
-https://w7.pngwing.com/pngs/29/724/png-transparent-akishima-registrar-of-companies-judicial-scrivener-%E7%99%BB%E8%A8%98-juridical-person-tesseract-blue-text-logo.png  <img src="https://img.icons8.com/color/48/bootstrap.png" title="MDBootstrap" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" title="Netlify" height="40"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" title="React" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/github.png" title="GitHub" height="40"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" title="MDBootstrap" height="40"/>
+  <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" title="Netlify" height="40"/>
 </p>
+
 
 ---
 
