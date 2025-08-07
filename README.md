@@ -8,14 +8,15 @@
 <p align="center">
   <img src="https://img.shields.io/github/license/gauravx999/image-to-text-app?style=flat-square" />
   <img src="https://img.shields.io/github/languages/top/gauravx999/image-to-text-app?style=flat-square" />
-  <img src="https://api.netlify.com/api/v1/badges/YOUR-NETLIFY-ID/deploy-status?style=flat-square" />
+  <img src="https://api.netlify.com/api/v1/badges/b0b53532-2398-41ae-8c84-e6f1a91ac734/deploy-status?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" title="GitHub" />
+  <img src="https://img.icons8.com/color/48/react-native.png" title="React" />
+  <img src="https://img.icons8.com/ios-filled/48/github.png" title="GitHub" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Tesseract_OCR_Logo.svg" title="Tesseract.js" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="MDBootstrap" />
+  <img src="https://img.icons8.com/color/48/bootstrap.png" title="MDBootstrap" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-netlify-social-media-flat-juicy-fish.png" title="Netlify" height="40"/>
 </p>
 
 ---
@@ -37,13 +38,11 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 <p align="center">
-  <img width="1534" height="818" alt="Screenshot 2025-08-07 232740" src="https://github.com/user-attachments/assets/7e1ae3bc-4927-4f47-87fa-d275b8bc29c9" />
+  <img width="800" alt="Screenshot of Image to Text App" src="https://github.com/user-attachments/assets/7e1ae3bc-4927-4f47-87fa-d275b8bc29c9" />
 </p>
-
-> *(You can upload your screenshot to [imgur.com](https://imgur.com/upload) and replace the link.)*
 
 ---
 
